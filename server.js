@@ -241,4 +241,3 @@ app.listen(PORT, () => {
   console.log('   GET    /            - Health check\n');
 });
 
-console.log("deployment demo")
